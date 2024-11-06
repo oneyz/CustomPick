@@ -1,0 +1,24 @@
+# Lista dozwolonych kilofów
+allowed:
+  - DIAMOND_PICKAXE
+  - NETHERITE_PICKAXE
+
+# Ustawienia dotyczące straty trwalosci w zależności od typu kilofa i enchantu (3x3/5x5)
+durability_loss:
+  DIAMOND_PICKAXE:
+    supereff: 3   # Strata trwałości dla kilofa kamiennego przy enchantach 'supereff' 3x3
+    supereff2: 5  # Strata trwałości dla kilofa kamiennego przy enchantach 'supereff2' 5x5
+  NETHERITE_PICKAXE:
+    supereff: 3   # Strata trwałości dla kilofa netherytowego przy enchantach 'supereff' 3x3
+    supereff2: 5  # Strata trwałości dla kilofa netherytowego przy enchantach 'supereff2' 5x5
+
+# Ustawienia dotyczące redukcji trwałości w zależności od poziomu enchantu Unbreaking
+unbreaking:
+  STONE_PICKAXE:
+    1: 1           # Redukcja trwałości dla kilofa kamiennego na poziomie Unbreaking 1
+    2: 2           # Redukcja trwałości dla kilofa kamiennego na poziomie Unbreaking 2
+    3: 3           # Redukcja trwałości dla kilofa kamiennego na poziomie Unbreaking 3
+  NETHERITE_PICKAXE:
+    1: 1           # Redukcja trwałości dla kilofa netherytowego na poziomie Unbreaking 1
+    2: 2          # Redukcja trwałości dla kilofa netherytowego na poziomie Unbreaking 2
+    3: 3          # Redukcja trwałości dla kilofa netherytowego na poziomie Unbreaking 3

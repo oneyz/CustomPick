@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CoreProtect-22.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/com/me/custompick/lib/CoreProtect-22.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

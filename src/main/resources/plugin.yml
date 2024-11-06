@@ -1,0 +1,13 @@
+name: CustomPick
+version: '${project.version}'
+main: com.me.custompick.CustomPick
+api-version: '1.21'
+load: STARTUP
+
+commands:
+  pickreload:
+    description: Przeładowuje plik konfiguracyjny
+  pickdebug:
+    description: Komenda do debugowania [oneyz, yakob97]
+  pickgive:
+    description: Komenda do nadawania kilofa [oneyz_, yakob97]

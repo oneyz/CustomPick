@@ -1,0 +1,12 @@
+com\me\custompick\InventoryTracker.class
+com\me\custompick\CustomPick.class
+com\me\custompick\PrepareAnvilListener.class
+com\me\custompick\LogManager.class
+com\me\custompick\BlockBreakListener.class
+com\me\custompick\PickGiveCommand.class
+com\me\custompick\PickReloadCommand.class
+com\me\custompick\PickDebugCommand.class
+com\me\custompick\EfficiencyCombiner.class
+com\me\custompick\ConfigManager.class
+com\me\custompick\AnvilClickListener.class
+com\me\custompick\PickaxeDescriptionUpdater.class
